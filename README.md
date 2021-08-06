@@ -1,1 +1,1 @@
-# DIGGS-Tutorials
+# DIGGS-Python-Tutorials
